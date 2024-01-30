@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LinkAja</name>
+   <tag></tag>
+   <elementGuidId>e0da23a9-9b2f-4469-887a-9fb04bf6e6cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>083b8d15-4a85-49eb-8f8f-f7af947d7d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-auit3s</value>
+      <webElementGuid>3de39dcd-49eb-4aa5-aebd-d894f88e3d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LinkAja</value>
+      <webElementGuid>f3710e2e-444f-4a50-b9ca-4010bd16d8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranlsate&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root mui-style-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper mui-style-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth mui-style-2mum2w&quot;]/div[@class=&quot;MuiDialogContent-root mui-style-jkrf21&quot;]/div[@class=&quot;MuiStack-root mui-style-1ov46kg&quot;]/div[1]/ul[@class=&quot;MuiList-root mui-style-1uzmcsd&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-divider MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-divider mui-style-v1g70r&quot;]/div[@class=&quot;MuiListItemText-root mui-style-xdiy5h&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-auit3s&quot;]</value>
+      <webElementGuid>e7816981-27db-41db-ac6a-b3b3684c0596</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/span</value>
+      <webElementGuid>d90c27ab-ba8c-4eb2-b010-2835979790a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'LinkAja' or . = 'LinkAja')]</value>
+      <webElementGuid>9051f0aa-aea0-44d7-b938-c7752e051315</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

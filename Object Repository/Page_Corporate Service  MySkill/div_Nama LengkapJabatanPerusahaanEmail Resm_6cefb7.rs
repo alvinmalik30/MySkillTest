@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nama LengkapJabatanPerusahaanEmail Resm_6cefb7</name>
+   <tag></tag>
+   <elementGuidId>01a33f28-fd25-4959-9eec-1ab5530e8cdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiStack-root.mui-style-1orv6po</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corporate-service-form']/div/div[2]/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4f6fc3e-1b83-45be-b43f-a7601c54d8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiStack-root mui-style-1orv6po</value>
+      <webElementGuid>8d1303b8-17d0-4c1a-bf87-52739b247ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama LengkapJabatanPerusahaanEmail ResmiNo. HP / WhatsAppPilih Layanan​PesanKirim</value>
+      <webElementGuid>922fcc43-f534-4fc9-816f-29e4bee80c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-23uipz&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@id=&quot;corporate-service-form&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-rcalj5&quot;]/div[@class=&quot;MuiBox-root mui-style-hd7qfh&quot;]/form[1]/div[@class=&quot;MuiStack-root mui-style-1orv6po&quot;]</value>
+      <webElementGuid>58f07d2c-6c26-4a48-91d0-8855bdf6f1ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corporate-service-form']/div/div[2]/form/div</value>
+      <webElementGuid>8db98691-b49c-49bb-bca9-abdf0fd824ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>e1bc8509-6f32-488c-94c3-4336d2e7281a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nama LengkapJabatanPerusahaanEmail ResmiNo. HP / WhatsAppPilih Layanan​PesanKirim' or . = 'Nama LengkapJabatanPerusahaanEmail ResmiNo. HP / WhatsAppPilih Layanan​PesanKirim')]</value>
+      <webElementGuid>9ade2168-f59c-46ad-a8ef-78c7123540fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

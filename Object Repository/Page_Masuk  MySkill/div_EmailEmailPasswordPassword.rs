@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailEmailPasswordPassword</name>
+   <tag></tag>
+   <elementGuidId>f101cd04-13cf-40f4-a81a-b047d0f6dbc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiStack-root.mui-style-1orv6po</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8af47d3-e469-4184-9a0b-aff665b20ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiStack-root mui-style-1orv6po</value>
+      <webElementGuid>553eb86f-d555-4b1e-9266-d797d23f1e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailEmailPasswordPassword</value>
+      <webElementGuid>e55c0099-bb6c-4b08-823c-0789a9bce5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;mui-style-v82cpl&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm mui-style-1m6pqln&quot;]/div[@class=&quot;mui-style-18yadix&quot;]/form[1]/div[@class=&quot;MuiStack-root mui-style-1orv6po&quot;]</value>
+      <webElementGuid>87392296-8428-4ba5-b155-91518c29d0bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/form/div</value>
+      <webElementGuid>576c68f6-4ead-4b80-b99c-a7e709aed0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>1b26f015-a885-4adc-8d5c-9774b3a1306d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EmailEmailPasswordPassword' or . = 'EmailEmailPasswordPassword')]</value>
+      <webElementGuid>eb4cb46e-4a4d-41da-9e6a-56e2327ef02a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

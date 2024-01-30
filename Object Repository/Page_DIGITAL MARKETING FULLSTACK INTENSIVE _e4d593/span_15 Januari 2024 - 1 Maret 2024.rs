@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_15 Januari 2024 - 1 Maret 2024</name>
+   <tag></tag>
+   <elementGuidId>9d26880d-1a5c-440e-ad29-3519eafffcb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-body1.mui-style-8h50vm > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id=':rb:']/li/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>283d9e80-82c1-4a33-a0ea-8768811f3535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15 Januari 2024 - 1 Maret 2024</value>
+      <webElementGuid>587a8234-b37f-465a-9ba3-922bbb834aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:rb:&quot;)/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters mui-style-1azjkcz&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 mui-style-8h50vm&quot;]/span[1]</value>
+      <webElementGuid>c44b5318-fc8d-4e17-8bc1-2f7e4911ce78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id=':rb:']/li/span[2]/span</value>
+      <webElementGuid>a30dbe61-50c7-4cf8-bba8-50ebfb15a9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span[2]/span</value>
+      <webElementGuid>cacfb8a1-5d1a-4b39-8a8e-f499d62df479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '15 Januari 2024 - 1 Maret 2024' or . = '15 Januari 2024 - 1 Maret 2024')]</value>
+      <webElementGuid>15daf13e-b6bb-4088-9b55-e62f0803e09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id=':r5:']/li/span[2]/span</value>
+      <webElementGuid>79050d3f-76e9-42df-98b9-d48916b9fa2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id=':rg:']/li/span[2]/span</value>
+      <webElementGuid>ee949f3e-c51f-4771-ba82-9c9a326a9e60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

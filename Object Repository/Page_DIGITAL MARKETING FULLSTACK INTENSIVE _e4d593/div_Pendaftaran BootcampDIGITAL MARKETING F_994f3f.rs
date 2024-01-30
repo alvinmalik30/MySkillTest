@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pendaftaran BootcampDIGITAL MARKETING F_994f3f</name>
+   <tag></tag>
+   <elementGuidId>c286a350-460f-4c87-8ff5-639eca83f4c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.mui-style-16u656j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cab4b4d-96d4-47c8-a912-e8c301221033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper mui-style-16u656j</value>
+      <webElementGuid>55166491-35c6-4983-9d0d-36fdc60b0d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>98e71b0f-5d04-47b5-974f-fc9631e07939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>bec67553-a2d0-41cc-b165-258f87ad8109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pendaftaran BootcampDIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMPBatch 23 (15 Januari 2024 - 1 Maret 2024)Kamu Sudah Mengisi FormKamu sudah mengisi form pendaftaran pada batch bootcamp ini, mengisi kembali form ini akan memperbarui data pendaftaran kamu sebelumnya. Untuk melanjutkan ke pembayaran, silahkan klik tombol lanjutkan pembayaran di bawah.Jika kamu ingin mendaftarkan orang lain, silahkan buat akun baru dengan email yang berbeda. Satu akun MySkill hanya bisa digunakan untuk mendaftarkan satu peserta Bootcamp.Nama LengkapEmailNo. HPPekerjaan Saat IniDarimana Kamu Mengetahui MySkillKembaliPerbarui DataLanjutkan Pembayaran</value>
+      <webElementGuid>f49a28df-1e3e-4ddf-845c-5911c43c0278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranlsate&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root mui-style-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper mui-style-16u656j&quot;]</value>
+      <webElementGuid>7d18dd54-12ab-42f9-bbec-c36f2e77b48c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>a38c1606-7018-42aa-938c-581aa7809b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pendaftaran BootcampDIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMPBatch 23 (15 Januari 2024 - 1 Maret 2024)Kamu Sudah Mengisi FormKamu sudah mengisi form pendaftaran pada batch bootcamp ini, mengisi kembali form ini akan memperbarui data pendaftaran kamu sebelumnya. Untuk melanjutkan ke pembayaran, silahkan klik tombol lanjutkan pembayaran di bawah.Jika kamu ingin mendaftarkan orang lain, silahkan buat akun baru dengan email yang berbeda. Satu akun MySkill hanya bisa digunakan untuk mendaftarkan satu peserta Bootcamp.Nama LengkapEmailNo. HPPekerjaan Saat IniDarimana Kamu Mengetahui MySkillKembaliPerbarui DataLanjutkan Pembayaran' or . = 'Pendaftaran BootcampDIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMPBatch 23 (15 Januari 2024 - 1 Maret 2024)Kamu Sudah Mengisi FormKamu sudah mengisi form pendaftaran pada batch bootcamp ini, mengisi kembali form ini akan memperbarui data pendaftaran kamu sebelumnya. Untuk melanjutkan ke pembayaran, silahkan klik tombol lanjutkan pembayaran di bawah.Jika kamu ingin mendaftarkan orang lain, silahkan buat akun baru dengan email yang berbeda. Satu akun MySkill hanya bisa digunakan untuk mendaftarkan satu peserta Bootcamp.Nama LengkapEmailNo. HPPekerjaan Saat IniDarimana Kamu Mengetahui MySkillKembaliPerbarui DataLanjutkan Pembayaran')]</value>
+      <webElementGuid>25328bc7-e2f9-4396-80d5-e0bfe3da2ee9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

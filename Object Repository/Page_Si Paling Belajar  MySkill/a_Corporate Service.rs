@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Corporate Service</name>
+   <tag></tag>
+   <elementGuidId>602e8ca9-adee-4e5e-ae61-f1f29230bd70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/header/div/div/div[2]/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71c33c56-bdda-4461-a836-c7e45f6997fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover mui-style-102e5f5</value>
+      <webElementGuid>f364fc2d-c349-485c-b086-630d6deb58de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/corporate-service</value>
+      <webElementGuid>1f69e132-0471-46dc-99e1-872797081a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corporate Service</value>
+      <webElementGuid>1753f494-80f4-4fc8-b32c-bed2403cc291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-1hvgntk&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[1]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed mui-style-u5mgdq&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular mui-style-1156eqb&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-1rnec2r&quot;]/div[@class=&quot;MuiStack-root mui-style-1xhj18k&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover mui-style-102e5f5&quot;]</value>
+      <webElementGuid>0f979361-91ec-4399-bb8b-ade46584b99e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/header/div/div/div[2]/a[5]</value>
+      <webElementGuid>b2d3ec14-dd93-4348-8db4-3333cc621b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Corporate Service')]</value>
+      <webElementGuid>bb802db2-e35a-4291-ae6d-1fea888c2d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/corporate-service')]</value>
+      <webElementGuid>f72d2fd1-6349-4b29-9aca-ac11dde706ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>638c2745-c8b9-4b78-881d-d43ed1a44d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/corporate-service' and (text() = 'Corporate Service' or . = 'Corporate Service')]</value>
+      <webElementGuid>4701966a-17f4-4a3e-ba44-b5c9cc1add72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login berhasil</name>
+   <tag></tag>
+   <elementGuidId>67f6b902-c1d5-4f4c-a6ce-a575f57f09dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SnackbarItem-wrappedRoot.mui-style-x65xj9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4753e36-1845-49ae-bfcb-52ae271ef33d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SnackbarItem-wrappedRoot mui-style-x65xj9</value>
+      <webElementGuid>4cdc85fa-25b1-4b85-af06-44660e095b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login berhasil!</value>
+      <webElementGuid>237b0add-84b6-48bb-bbf9-fb3936a41a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;SnackbarContainer-top SnackbarContainer-right SnackbarContainer-root SnackbarContainer-rootDense mui-style-uwcd5u&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered mui-style-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical mui-style-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical mui-style-8atqhb&quot;]/div[@class=&quot;SnackbarItem-wrappedRoot mui-style-x65xj9&quot;]</value>
+      <webElementGuid>b3b5e3e1-b270-426a-acd5-b3faf15fc544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div</value>
+      <webElementGuid>e0b1c3f3-33d4-4342-9d92-d44b61b3d122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>bc30b84e-fdc3-4259-9ceb-0e9528360510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login berhasil!' or . = 'Login berhasil!')]</value>
+      <webElementGuid>c14c5793-fbdf-4f58-9ee6-d5371512b560</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

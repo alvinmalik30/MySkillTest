@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_MuiBox-root mui-style-1i9snxo</name>
+   <tag></tag>
+   <elementGuidId>c834decb-f0c0-467a-b6c9-7e0773df2156</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiBox-root.mui-style-1i9snxo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/a/div/div/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>66a7ccc9-65db-4109-ace5-39af24552537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root mui-style-1i9snxo</value>
+      <webElementGuid>e9a8ab68-fbb0-4797-940a-6c938b548660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://image.myskill.id/bootcamp-poster/FQ9ADhFHnoa43vfKekI6/thumbnail.png</value>
+      <webElementGuid>232b473f-1c8a-4819-8527-61d9c5baacfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>DIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMP</value>
+      <webElementGuid>98f4543f-a6ff-4aa1-bf27-9490de745534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>62b22654-dd36-4c99-a00e-73056cfac3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-j1fy4m&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[2]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-rcalj5&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 mui-style-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 mui-style-pq7chb&quot;]/div[1]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root mui-style-wem97i&quot;]/a[@class=&quot;MuiButtonBase-root MuiCardActionArea-root mui-style-1rdvs08&quot;]/div[@class=&quot;MuiBox-root mui-style-1js9o1g&quot;]/div[@class=&quot;MuiBox-root mui-style-1ayv084&quot;]/picture[@class=&quot;MuiBox-root mui-style-0&quot;]/img[@class=&quot;MuiBox-root mui-style-1i9snxo&quot;]</value>
+      <webElementGuid>0fc1da80-310a-4cd8-82bc-9ab1f4d247ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/a/div/div/picture/img</value>
+      <webElementGuid>d3065240-3ef5-4bb7-b0f8-0f1a0c032ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='DIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMP']</value>
+      <webElementGuid>5602dc85-54b1-4e5b-a038-696170cd5f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture/img</value>
+      <webElementGuid>875cd81b-4a8d-4b56-adaa-fb006a038d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://image.myskill.id/bootcamp-poster/FQ9ADhFHnoa43vfKekI6/thumbnail.png' and @alt = 'DIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMP']</value>
+      <webElementGuid>81eb5eda-d44a-468a-ba40-7ffd8abb8c1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

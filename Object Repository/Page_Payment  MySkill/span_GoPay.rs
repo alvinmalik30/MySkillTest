@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_GoPay</name>
+   <tag></tag>
+   <elementGuidId>23fd557e-a643-4a76-b834-d5200da907a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d6bf47e-b29a-4f2a-9ce4-fb5812ef9c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-auit3s</value>
+      <webElementGuid>ab690328-4cae-4a83-8e51-b0b786bed61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GoPay</value>
+      <webElementGuid>4e0590b8-814e-40c2-93bd-9530608540da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranlsate&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root mui-style-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper mui-style-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth mui-style-2mum2w&quot;]/div[@class=&quot;MuiDialogContent-root mui-style-jkrf21&quot;]/div[@class=&quot;MuiStack-root mui-style-1ov46kg&quot;]/div[1]/ul[@class=&quot;MuiList-root mui-style-1uzmcsd&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-divider MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-divider mui-style-v1g70r&quot;]/div[@class=&quot;MuiListItemText-root mui-style-xdiy5h&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-auit3s&quot;]</value>
+      <webElementGuid>8c8643a5-3da1-474e-adac-a2a758cd019f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/span</value>
+      <webElementGuid>5df29fba-a62b-41cd-a312-375efef428ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'GoPay' or . = 'GoPay')]</value>
+      <webElementGuid>bd4d2a9a-6a2d-4f9a-bd32-3eb79a47811f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

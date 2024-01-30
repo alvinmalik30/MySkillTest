@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email yang ada masukkan tidak terdaftar</name>
+   <tag></tag>
+   <elementGuidId>492032be-4811-49be-bed1-b46c0b2c3a70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation0.MuiAlert-root.MuiAlert-standardError.MuiAlert-standard.mui-style-xlsxqy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>603a6a44-77ab-4898-afdc-bf1690fa5ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardError MuiAlert-standard mui-style-xlsxqy</value>
+      <webElementGuid>743af0af-096e-4a4e-8ebf-b856c2252177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>7b18e09f-2f82-49cb-aa93-e13b27828818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email yang ada masukkan tidak terdaftar.</value>
+      <webElementGuid>049d41e6-40ec-42f0-8b22-29775b4f4d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;mui-style-v82cpl&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm mui-style-1m6pqln&quot;]/div[@class=&quot;mui-style-18yadix&quot;]/form[1]/div[@class=&quot;MuiStack-root mui-style-1orv6po&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardError MuiAlert-standard mui-style-xlsxqy&quot;]</value>
+      <webElementGuid>02e30a3f-fad9-47ec-857a-e65203fdf4c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/form/div/div</value>
+      <webElementGuid>67e590b1-1bd9-4226-98bb-399b868853b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>22904727-257e-4428-bc55-6a6e53913aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email yang ada masukkan tidak terdaftar.' or . = 'Email yang ada masukkan tidak terdaftar.')]</value>
+      <webElementGuid>dc432783-bd50-4278-941c-77fb2fc60523</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

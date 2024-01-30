@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dana</name>
+   <tag></tag>
+   <elementGuidId>330f749b-3dd0-476a-8165-20d6dff0b69f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6ff68c46-10df-48d2-ba85-5696245afaed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-auit3s</value>
+      <webElementGuid>05398037-7ae0-460c-829c-d7e2eaf39f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dana</value>
+      <webElementGuid>26420346-4169-406b-8adc-73810bbea527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranlsate&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root mui-style-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper mui-style-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth mui-style-2mum2w&quot;]/div[@class=&quot;MuiDialogContent-root mui-style-jkrf21&quot;]/div[@class=&quot;MuiStack-root mui-style-1ov46kg&quot;]/div[1]/ul[@class=&quot;MuiList-root mui-style-1uzmcsd&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-divider MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-divider mui-style-v1g70r&quot;]/div[@class=&quot;MuiListItemText-root mui-style-xdiy5h&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-auit3s&quot;]</value>
+      <webElementGuid>11b67b9c-e1e4-4279-960b-9e4aaa7d09e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>ead6f26a-c91f-42a5-812e-17db8c320020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dana' or . = 'Dana')]</value>
+      <webElementGuid>daa7a945-1628-40d4-8b8c-6b8b9e17664c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

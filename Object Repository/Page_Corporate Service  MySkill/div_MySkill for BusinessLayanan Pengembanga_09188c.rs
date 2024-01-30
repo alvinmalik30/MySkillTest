@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MySkill for BusinessLayanan Pengembanga_09188c</name>
+   <tag></tag>
+   <elementGuidId>9d2e6101-d379-467f-a55f-4b4a6602ac7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.mui-style-23uipz</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5d021e5-ff96-461d-8f64-56fb86b4f72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root mui-style-23uipz</value>
+      <webElementGuid>5037b04e-2371-4732-a897-863cac9328b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MySkill for BusinessLayanan Pengembangan Skill dan Peningkatan Performa KaryawanJalankan corporate training yang disesuaikan dengan kebutuhan perusahaan, maupun akses Performance Management Software dan E-learning MySkill for Business.Corporate TrainingPerformance Management SoftwareMengapa Ratusan Perusahaan Memilih MySkill?2X LinkedIn Top Startup AwardSatu-satunya startup Education Technology di Indonesia.Rating 4.99 di Course ReportMendapatkan rating sangat memuaskan dari para peserta.Lebih dari 1.5 Juta PenggunaKomunitas pengembangan skill terbesar di IndonesiaBerbagai Program MySkillCorporate TrainingAssessment, Pelatihan. dan Konsultasi Pasca Training✅ Customizeable: offline / online, berbagai topik dan durasi bisa disesuaikan.✅ Dibawakan praktisi senior dari notable companies dan industri yang relevan.✅ Fokus praktik &amp; case study. Assessment before dan after training yang lengkap.Pelajari Corporate TrainingPerformance Management SoftwareTools HRIS untuk Melacak Performa &amp; Employee Learning✅ Pencatatan dan Monitoring KPI setiap divisi dan karyawan.✅ 1.000+ konten materi upskilling untuk semua divisi di perusahaan.✅ Dashboard analytics yang lengkap untuk data-driven decision.Pelajari Performance Management SoftwareCorporate Campaign, Partnership &amp; CSRPerbesar Brand Awareness &amp; Dampak Besama 1.5 Juta+ Member✅ Kerjasama pelaksanaan Public Training, Event &amp; Workshop.✅ Perkenalkan brand &amp; expertise perusahaan, perkuat corporate branding✅ Terbukti membangun virality dan word of mouth dengan ribuan peserta.Hubungi Tim MySkillHubungi MySkill untuk Diskusi Lebih LanjutNama LengkapJabatanPerusahaanEmail ResmiNo. HP / WhatsAppPilih LayananElearning for BusinessPesanFKirim</value>
+      <webElementGuid>a72dd539-1ce9-4b86-a17d-752cdec2dd6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-23uipz&quot;]</value>
+      <webElementGuid>ced01874-27c7-4a57-b331-e11a5bf23016</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]</value>
+      <webElementGuid>1109d24d-d67d-4ad2-bd8e-7980df6f78cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>89b18f75-3dad-4c70-ba0c-e0aed4a0b3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MySkill for BusinessLayanan Pengembangan Skill dan Peningkatan Performa KaryawanJalankan corporate training yang disesuaikan dengan kebutuhan perusahaan, maupun akses Performance Management Software dan E-learning MySkill for Business.Corporate TrainingPerformance Management SoftwareMengapa Ratusan Perusahaan Memilih MySkill?2X LinkedIn Top Startup AwardSatu-satunya startup Education Technology di Indonesia.Rating 4.99 di Course ReportMendapatkan rating sangat memuaskan dari para peserta.Lebih dari 1.5 Juta PenggunaKomunitas pengembangan skill terbesar di IndonesiaBerbagai Program MySkillCorporate TrainingAssessment, Pelatihan. dan Konsultasi Pasca Training✅ Customizeable: offline / online, berbagai topik dan durasi bisa disesuaikan.✅ Dibawakan praktisi senior dari notable companies dan industri yang relevan.✅ Fokus praktik &amp; case study. Assessment before dan after training yang lengkap.Pelajari Corporate TrainingPerformance Management SoftwareTools HRIS untuk Melacak Performa &amp; Employee Learning✅ Pencatatan dan Monitoring KPI setiap divisi dan karyawan.✅ 1.000+ konten materi upskilling untuk semua divisi di perusahaan.✅ Dashboard analytics yang lengkap untuk data-driven decision.Pelajari Performance Management SoftwareCorporate Campaign, Partnership &amp; CSRPerbesar Brand Awareness &amp; Dampak Besama 1.5 Juta+ Member✅ Kerjasama pelaksanaan Public Training, Event &amp; Workshop.✅ Perkenalkan brand &amp; expertise perusahaan, perkuat corporate branding✅ Terbukti membangun virality dan word of mouth dengan ribuan peserta.Hubungi Tim MySkillHubungi MySkill untuk Diskusi Lebih LanjutNama LengkapJabatanPerusahaanEmail ResmiNo. HP / WhatsAppPilih LayananElearning for BusinessPesanFKirim' or . = 'MySkill for BusinessLayanan Pengembangan Skill dan Peningkatan Performa KaryawanJalankan corporate training yang disesuaikan dengan kebutuhan perusahaan, maupun akses Performance Management Software dan E-learning MySkill for Business.Corporate TrainingPerformance Management SoftwareMengapa Ratusan Perusahaan Memilih MySkill?2X LinkedIn Top Startup AwardSatu-satunya startup Education Technology di Indonesia.Rating 4.99 di Course ReportMendapatkan rating sangat memuaskan dari para peserta.Lebih dari 1.5 Juta PenggunaKomunitas pengembangan skill terbesar di IndonesiaBerbagai Program MySkillCorporate TrainingAssessment, Pelatihan. dan Konsultasi Pasca Training✅ Customizeable: offline / online, berbagai topik dan durasi bisa disesuaikan.✅ Dibawakan praktisi senior dari notable companies dan industri yang relevan.✅ Fokus praktik &amp; case study. Assessment before dan after training yang lengkap.Pelajari Corporate TrainingPerformance Management SoftwareTools HRIS untuk Melacak Performa &amp; Employee Learning✅ Pencatatan dan Monitoring KPI setiap divisi dan karyawan.✅ 1.000+ konten materi upskilling untuk semua divisi di perusahaan.✅ Dashboard analytics yang lengkap untuk data-driven decision.Pelajari Performance Management SoftwareCorporate Campaign, Partnership &amp; CSRPerbesar Brand Awareness &amp; Dampak Besama 1.5 Juta+ Member✅ Kerjasama pelaksanaan Public Training, Event &amp; Workshop.✅ Perkenalkan brand &amp; expertise perusahaan, perkuat corporate branding✅ Terbukti membangun virality dan word of mouth dengan ribuan peserta.Hubungi Tim MySkillHubungi MySkill untuk Diskusi Lebih LanjutNama LengkapJabatanPerusahaanEmail ResmiNo. HP / WhatsAppPilih LayananElearning for BusinessPesanFKirim')]</value>
+      <webElementGuid>0213f8c5-ccd5-4018-8e67-8f6df98c5ff7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

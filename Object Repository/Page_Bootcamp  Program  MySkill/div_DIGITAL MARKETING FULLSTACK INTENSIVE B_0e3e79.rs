@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DIGITAL MARKETING FULLSTACK INTENSIVE B_0e3e79</name>
+   <tag></tag>
+   <elementGuidId>b225f581-7d31-4dae-9b9c-1f07622d1c32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiCardContent-root.mui-style-g71nvn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a0a91de-f782-4afa-9490-c70a2d87ce58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root mui-style-g71nvn</value>
+      <webElementGuid>af54c648-63d9-494a-9000-d4e6a1c8f5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMP15 Januari 2024Rp 590.000 Rp 1.000.000</value>
+      <webElementGuid>48ce7511-26d8-4051-8a45-aac7606fda47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-j1fy4m&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[2]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-rcalj5&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 mui-style-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 mui-style-pq7chb&quot;]/div[1]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root mui-style-wem97i&quot;]/a[@class=&quot;MuiButtonBase-root MuiCardActionArea-root mui-style-1rdvs08&quot;]/div[@class=&quot;MuiCardContent-root mui-style-g71nvn&quot;]</value>
+      <webElementGuid>bc611d0e-388d-4548-a769-2c9cc1ead016</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/a/div[2]</value>
+      <webElementGuid>467f8047-fc2c-41c5-9f19-caafbd89bdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>6dc4a9c0-ff41-4257-a995-ead593a8e70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMP15 Januari 2024Rp 590.000 Rp 1.000.000' or . = 'DIGITAL MARKETING: FULLSTACK INTENSIVE BOOTCAMP15 Januari 2024Rp 590.000 Rp 1.000.000')]</value>
+      <webElementGuid>9561b6ad-1596-4e8e-b203-98705e8ada76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
